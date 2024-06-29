@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "398364920270",
+    "project_id": "crudfirebaseapp-2024",
+    "storage_bucket": "crudfirebaseapp-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398364920270:android:2f5c7313809fa44b9a839f",
+        "android_client_info": {
+          "package_name": "com.herusaputra.crudfirebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1rUj7uvvAbMGJO2P3iBzPS8DbEs2wr5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
